@@ -1,4 +1,4 @@
-# A React Expense Tracker App used Context API and Reducers to manage States
+# A React Expense Tracker App used Context API and Reducers
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
